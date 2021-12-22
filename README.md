@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dongtingporpoise
 - 👀 I’m interested in molecular ecology
-- 🌱 I’m currently learning OBITools
+- 🌱 I’m currently learning OBITools and Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
